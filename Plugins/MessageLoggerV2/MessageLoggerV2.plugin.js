@@ -1,5 +1,5 @@
 /**
- * @name MessageLoggerV2
+ * @name MessageLoggerV
  * @version 1.8.21
  * @invite NYvWdN5
  * @donate https://paypal.me/lighty13
